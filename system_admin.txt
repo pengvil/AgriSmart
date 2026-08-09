@@ -1,0 +1,10 @@
+An Admin can:
+    
+    1. Log in using authorized Admin credentials
+    2. Manage user accounts
+    3. Manage crop information
+    4. Manage crop market prices
+    5. Manage weather notices
+    6. Manage crop-problem categories
+    7. Manage farming suggestions
+    8. Control role-based system access
