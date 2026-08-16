@@ -1,0 +1,10 @@
+A Farmer can:
+	
+	1. Register an account to use the AgriSmart application with a personal profile
+	2. Log in securely to access farming information
+	3. Create and update a farming profile
+	4. Search for crop information including care, season, soil type, and basic farming methods
+	5. Set farming reminders for tasks like watering, fertilizing, or harvesting
+	6. View weather notices to plan farming activities
+	7. View crop market prices to decide when and where to sell crops
+	8. Select a crop problem to view suggestions and get basic help
