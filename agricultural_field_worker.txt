@@ -1,0 +1,10 @@
+A Field Worker can:
+
+    1. Register an account.
+    2. Log in.
+    3. Search and view crop information.
+    4. View common crop-problem categories.
+    5. Provide farming suggestions.
+    6. Update suggestions when permission is granted.
+    7. View market information.
+    8. View weather information.
