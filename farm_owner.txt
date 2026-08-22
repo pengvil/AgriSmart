@@ -1,0 +1,9 @@
+A Farm Owner can:
+
+   1. Register an account
+   2. Log in
+   3. Create and manage a farm profile
+   4. Maintain crop production records
+   5. Manage farming schedules
+   6. View crop market prices
+   7. View weather notices
