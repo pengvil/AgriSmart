@@ -8,3 +8,9 @@ A Farmer can:
 	6. View weather notices to plan farming activities
 	7. View crop market prices to decide when and where to sell crops
 	8. Select a crop problem to view suggestions and get basic help
+        9. Upload photos of crop diseases for diagnosis.
+       10. Maintain a farm activity diary and record farming operations.
+       11. Track expenses, investments, and crop profits.
+       12. Receive notifications about government agricultural programs and subsidies.
+       13. Access modern farming techniques and training materials.
+       14. Connect with agricultural experts for advice.
